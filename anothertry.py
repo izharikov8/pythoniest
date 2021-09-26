@@ -30,3 +30,6 @@ for key, value in data.items():
   percentage = ((value / len(queries) * 100))
   print(f'Поисковых запросов состоящих из {key} слова: {percentage}%')
 print()
+
+print("Напечатай комит")
+
